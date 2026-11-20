@@ -83,7 +83,7 @@ Make the site show a clear error when a setting is missing instead of crashing.
 
 ## What's next
 
-- More breakdowns like this in our Telegram channel (link coming soon).
+- More breakdowns like this in our Telegram channel: [@neuromentorrr](https://t.me/neuromentorrr) (in Russian for now)
 - Full course on Claude Code, Codex and VS Code — coming soon.
 
 MIT licensed — use it however you like. Not an official Anthropic resource.
